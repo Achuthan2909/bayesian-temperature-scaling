@@ -1,9 +1,6 @@
 # Bayesian Temperature Scaling for Neural Network Calibration
 
 **Final Project for MA 578: Bayesian Statistics**
-
-[![Project Report](latex/FinalReport.pdf)](latex/FinalReport.pdf)
-
 ## Overview
 
 This project implements **Bayesian temperature scaling** for calibrating neural network predictions, providing uncertainty quantification beyond standard point estimation methods. We demonstrate that Bayesian methods offer crucial advantages for safety-critical applications by quantifying uncertainty in both parameter estimates and calibration quality.
