@@ -192,8 +192,3 @@ This project is for educational purposes as part of MA 578: Bayesian Statistics 
 ## Contact
 
 For questions or issues, please open an issue on GitHub.
-
----
-
-**Project Goal**: Transform from "Bayesian estimation of one parameter" to "Comprehensive Bayesian uncertainty quantification for reliable machine learning predictions"
-
